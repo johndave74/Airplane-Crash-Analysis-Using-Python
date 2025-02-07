@@ -43,6 +43,6 @@ pip install pandas matplotlib seaborn
 ### 📌 Author
 John David - Data Analyst | Data Scientist  
 📧 Contact: adelekejohndavid@gmail.com 
-🔗 LinkedIn: [(https://linkedin.com/in/yourprofile) ](https://www.linkedin.com/in/john-david-b7b5781b3/) 
+🔗 LinkedIn: [LinkeIn](https://www.linkedin.com/in/john-david-b7b5781b3/) 
 
 Feel free to contribute, open issues, or suggest improvements! ⭐
